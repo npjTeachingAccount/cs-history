@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+    <title>Computer Science History - CS100</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row"> </div>
+        <div class="row">
+            <div class="col-4"><img src="img/linus-torvalds.jpg" alt="PlaceHolder" /><strong>Linus Torvalds</strong>
+            </div>
+            <div class="col">
+                <h2 class="display-2">Linus Torvalds</h2>
+                <p><strong>Dates: </strong>December 28, 1969</p>
+                <h3 class="display-6">Significant Contribution</h3>
+                <p class="lead">
+                    Linus Torvalds delevloped the Linux Operating System which is widely used on the Internet to power
+                    webservers,
+                    database servers, and other application servers. Linux is also used in many embedded Oporating
+                    Systems for Internet of Things type devices.
+                    He is currently the primary "maintainer" of the code and leads the team of developers who work on
+                    Linux. A new version of the OS is only released at his discretion.
+                </p>
+                <h3 class="display-6">Biography</h3>
+                <p>Torvalds was born in Helsinki, Finland, the 28th December 1969, the son of journalists Anna and Nils
+                    Torvalds,[6] the grandson of statistician Leo Törnqvist and of poet Ole Torvalds, and the
+                    great-grandson of journalist and soldier Toivo Karanko. His parents were campus radicals at the
+                    University of Helsinki in the 1960s. His family belongs to the Swedish-speaking minority in Finland.
+                    He was named after Linus Pauling, the Nobel Prize–winning American chemist, although in the book
+                    Rebel Code: Linux and the Open Source Revolution, he is quoted as saying, "I think I was named
+                    equally for Linus the Peanuts cartoon character", noting that this made him "half Nobel
+                    Prize–winning chemist and half blanket-carrying cartoon character".
+                </p>
+                </p>
+            </div>
+        </div>
+    </div>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+
+</html>
